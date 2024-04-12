@@ -1,1 +1,1 @@
-This a project from SoftUni QA Back-End test Automation.
+This a project from SoftUni QA Back-End Test Automation.
