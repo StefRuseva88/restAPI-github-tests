@@ -1,1 +1,1 @@
-This a project from SoftUni QA Back-End Test Automation/March2024 course.
+This is a test project from SoftUni QA Back-End Test Automation/March2024 course.
