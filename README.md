@@ -10,6 +10,7 @@ NUnit: A popular unit testing framework for .NET applications.
 
 ### GitHub API Endpoints
 This project tests various endpoints of the GitHub API.
+
 For a full list of available endpoints, refer to the [GitHub API documentation](https://docs.github.com/en/rest).
 
 ### Contributing
