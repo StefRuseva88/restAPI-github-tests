@@ -10,7 +10,7 @@ This project is designed to test various functionalities of the GitHub API using
 
 ### GitHub API Endpoints
 - This project tests various endpoints of the GitHub API.
-- For a full list of available endpoints, refer to the [GitHub API documentation](https://docs.github.com/en/rest).
+- For a full list of available endpoints, refer to the [GitHub API documentation](https://docs.github.com/en/rest)
 
 ### Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
