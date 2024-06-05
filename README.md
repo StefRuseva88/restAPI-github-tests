@@ -1,4 +1,4 @@
-## RestSharpExercise
+## Rest-API-GitHub-Tests
 This repository contains a test project for the Back-End Test Automation Course at SoftUni, March 2024.
 
 ### Project Description
