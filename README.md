@@ -1,6 +1,6 @@
 # Rest-API-GitHub-Tests
 ## This repository contains a test project for the Back-End Test Automation Course at SoftUni, March 2024.
-
+---
 ### Project Description
 This project is designed to test various functionalities of the GitHub API using RestSharp and NUnit. The purpose is to automate the testing of RESTful web services to ensure they work correctly and handle errors gracefully.
 
