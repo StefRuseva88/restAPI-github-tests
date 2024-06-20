@@ -18,12 +18,10 @@ This project is designed to test various functionalities of the GitHub API using
 - For a full list of available endpoints, refer to the [GitHub API documentation](https://docs.github.com/en/rest)
 
 ## GitHub API Project 
-- Projects:
-1. **RestSharpServices** - methods that interact with the GitHub API using RestSharp.
-2. **TestGitHubApi** - tests to verify the functionality of the RestSharpServices methods.
-- Models:
-These classes represent the data that the GitHub API will send and receive.
-- These classes are POCOs (Plain Old CLR Objects).
+
+- RestSharpServices: Methods that interact with the GitHub API using RestSharp.
+- TestGitHubApi: Tests to verify the functionality of the RestSharpServices methods.
+- Models: These classes represent the data that the GitHub API will send and receive.
 
 ## Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
