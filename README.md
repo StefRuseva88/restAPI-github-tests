@@ -13,6 +13,7 @@ This project is designed to test various functionalities of the GitHub API using
 - NUnit: A popular unit testing framework for .NET applications.
 
 ## GitHub API Endpoints
+- GitHub Issues provides the standard RESTful API endpoints, which you can access with HTTP client from [GitHub API edndpoints](https://api.github.com)
 - This project tests various endpoints of the GitHub API.
 - For a full list of available endpoints, refer to the [GitHub API documentation](https://docs.github.com/en/rest)
 
