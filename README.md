@@ -18,10 +18,17 @@ This project is designed to test various functionalities of the GitHub API using
 - For a full list of available endpoints, refer to the [GitHub API documentation](https://docs.github.com/en/rest)
 
 ## GitHub API Project 
-
 - RestSharpServices: Methods that interact with the GitHub API using RestSharp.
 - TestGitHubApi: Tests to verify the functionality of the RestSharpServices methods.
 - Models: These classes represent the data that the GitHub API will send and receive.
+
+## Setting Up the RestSharp Client
+
+The constructor takes three parameters:
+- baseUrl: The root URL of the GitHub API. This is where all API requests will start from.
+- username: Your GitHub username.
+- token: Your GitHub personal access token. This is used for authentication and allows you to interact with the GitHub API.
+
 
 ## Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
