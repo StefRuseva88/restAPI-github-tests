@@ -29,7 +29,7 @@ The constructor takes three parameters:
 - token: Your GitHub personal access token. This is used for authentication and allows you to interact with the GitHub API.
 
 ## Implementing API Methods and Tests
-I use the Incremental Approach: Write one method, then immediately write the corresponding test to validate it. Then Repeat this process for each method. This approach helps to focus on one piece of functionality at a time and makes debugging easier.
+ **Incremental Approach**: Write one method, then immediately write the corresponding test to validate it. Then Repeat this process for each method. This approach helps to focus on one piece of functionality at a time and makes debugging easier.
 
 ## Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
