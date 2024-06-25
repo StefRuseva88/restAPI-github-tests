@@ -3,7 +3,7 @@
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-### This is a test project for Back-End Test Automation March 2024 Course @ SoftUni
+### This is a test project for **Back-End Test Automation** March 2024 Course @ SoftUni
 ---
 ## Project Description
 This project is designed to test various functionalities of the GitHub API using RestSharp and NUnit. The purpose is to automate the testing of RESTful web services to ensure they work correctly and handle errors gracefully.
