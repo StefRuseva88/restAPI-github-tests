@@ -1,7 +1,7 @@
 # Rest-API-GitHub-Tests
 [![C#](https://img.shields.io/badge/Made%20with-C%23-239120.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET-5C2D91.svg)](https://dotnet.microsoft.com/)
-[![GitHub](https://img.shields.io/badge/Hosted%20on-GitHub-181717.svg)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg)](https://github.com/)
 [![NUnit](https://img.shields.io/badge/tested%20with-NUnit-22B2B0.svg)](https://nunit.org/)
 
 ### This is a test project for **Back-End Test Automation** March 2024 Course @ SoftUni
